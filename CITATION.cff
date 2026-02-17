@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as below."
+authors:
+  - family-names: "Song"
+    given-names: "Bairu"
+title: "Research Project Template"
+version: 1.0.0
+date-released: 2026-02-17
+url: "https://github.com/BarryS27/Research-Project-Template"
+keywords:
+  - research
+  - template
+references:
+  - type: article
+    authors:
+      - family-names: "Doe"
+        given-names: "John"
+    title: "Sample reference"
+    journal: "Sample Journal"
+    volume: 1
+    issue: 1
+    year: 2026
+    pages: "1"
+    # doi: "sample doi" #
